@@ -134,5 +134,5 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [swagger-editor]: https://editor.swagger.io
 [doing api-first development]: https://www.jhipster.tech/documentation-archive/v7.1.0/doing-api-first-development/
 
-## Board Jira
+### Board Jira
 https://sistemaprenotazionevaccini.atlassian.net/jira/software/projects/PVAX/boards/1
